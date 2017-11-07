@@ -23,7 +23,7 @@ public class MountModelRenderer {
     private static Map<String, String> mountModels = new HashMap<String, String>();
 
     static {
-        mountModels.put("铁马冰河", "cloud");
+        mountModels.put("Cloud Mount", "cloud");
     }
 
     @SubscribeEvent
